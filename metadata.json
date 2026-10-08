@@ -1,0 +1,8 @@
+{
+  "name": "Remix عشري | كبدة • مخ • فليه",
+  "description": "نموذج تجريبي لمطعم عشري للأكلات الشعبية المصرية - تخصص كبدة ومخ وفليه في مدينة الشروق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
